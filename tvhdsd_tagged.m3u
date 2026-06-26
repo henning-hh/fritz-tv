@@ -1,0 +1,193 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="DasErste.de" tvg-name="Das Erste.de",Das Erste HD
+#EXTVLCOPT:network-caching=1000
+rtsp://192.168.178.1:554/?avm=1&freq=386&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,5100,5101,1170,1176,2171,2172,5102,5103,5104,5105,5107
+#EXTINF:-1 tvg-id="ZDF.de" tvg-name="ZDF.de",ZDF HD
+#EXTVLCOPT:network-caching=1000
+rtsp://192.168.178.1:554/?avm=1&freq=450&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,6100,6110,6120,6121,6123,6130,6131,6170,6171,6172
+#EXTINF:-1 tvg-id="NDRHamburg.de" tvg-name="NDR Hamburg.de",NDR Hamburg
+#EXTVLCOPT:network-caching=1000
+rtsp://192.168.178.1:554/?avm=1&freq=458&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,4220,4222,4223,4224,4225,4226,4227,4228,4229,5247
+#EXTINF:-1 tvg-id="RTL.de" tvg-name="RTL.de",RTL
+#EXTVLCOPT:network-caching=1000
+rtsp://192.168.178.1:554/?avm=1&freq=410&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,7170,7172,7173,7174,7175,7176,7177,7178,7179
+#EXTINF:-1 tvg-id="RTLZWEI.de" tvg-name="RTLZWEI.de",RTLZWEI
+#EXTVLCOPT:network-caching=1000
+rtsp://192.168.178.1:554/?avm=1&freq=546&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,108,1601,1600,1602,1604,1606,1607,1608
+#EXTINF:-1 tvg-id="SAT1.de" tvg-name="SAT1.de",SAT.1
+#EXTVLCOPT:network-caching=1000
+rtsp://192.168.178.1:554/?avm=1&freq=410&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,7180,7182,7183,7184,7188,7189
+#EXTINF:-1 tvg-id="ProSieben.de" tvg-name="ProSieben.de",ProSieben
+#EXTVLCOPT:network-caching=1000
+rtsp://192.168.178.1:554/?avm=1&freq=546&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,116,2201,2202,2203,2204,2206
+#EXTINF:-1 tvg-id="DMAX.de" tvg-name="DMAX.de",DMAX
+#EXTVLCOPT:network-caching=1000
+rtsp://192.168.178.1:554/?avm=1&freq=562&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,115,2291,2292,2294,2296
+#EXTINF:-1 tvg-id="KabelEins.de" tvg-name="Kabel Eins.de",kabel eins
+#EXTVLCOPT:network-caching=1000
+rtsp://192.168.178.1:554/?avm=1&freq=546&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,118,2301,2302,2304,2306
+#EXTINF:-1 tvg-id="VOX.de" tvg-name="VOX.de",VOX
+#EXTVLCOPT:network-caching=1000
+rtsp://192.168.178.1:554/?avm=1&freq=546&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,109,1701,1700,1702,1704,1706,1707,1708
+#EXTINF:-1 tvg-id="sixx.de" tvg-name="sixx.de",sixx
+#EXTVLCOPT:network-caching=1000
+rtsp://192.168.178.1:554/?avm=1&freq=546&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,117,1181,1182,1184,1186
+#EXTINF:-1 tvg-id="TLC.de" tvg-name="TLC.de",TLC
+#EXTVLCOPT:network-caching=1000
+rtsp://192.168.178.1:554/?avm=1&freq=562&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,103,881,882,884,886
+#EXTINF:-1 tvg-id="NITRO.de" tvg-name="NITRO.de",NITRO
+#EXTVLCOPT:network-caching=1000
+rtsp://192.168.178.1:554/?avm=1&freq=562&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,104,981,980,982,984,986,987,988
+#EXTINF:-1 tvg-id="TELE5.de" tvg-name="TELE5.de",TELE 5
+#EXTVLCOPT:network-caching=1000
+rtsp://192.168.178.1:554/?avm=1&freq=546&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,121,411,412
+#EXTINF:-1 tvg-id="ProSiebenMAXX.de" tvg-name="ProSieben MAXX.de",ProSieben MAXX
+#EXTVLCOPT:network-caching=1000
+rtsp://192.168.178.1:554/?avm=1&freq=562&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,121,6431,6432,6433,6434,6436
+#EXTINF:-1 tvg-id="SAT1GOLD.de" tvg-name="SAT.1 GOLD.de",SAT.1 GOLD
+#EXTVLCOPT:network-caching=1000
+rtsp://192.168.178.1:554/?avm=1&freq=562&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,120,2431,2432,2433,2434,2436
+#EXTINF:-1 tvg-id="RTLup.de" tvg-name="RTLup.de",RTLup
+#EXTVLCOPT:network-caching=1000
+rtsp://192.168.178.1:554/?avm=1&freq=546&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,106,2411,2412,2414,2416,2417,2418
+#EXTINF:-1 tvg-id="VOXup.de" tvg-name="VOXup.de",VOXup
+#EXTVLCOPT:network-caching=1000
+rtsp://192.168.178.1:554/?avm=1&freq=562&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,117,811,812,814,816,817,818
+#EXTINF:-1 tvg-id="SUPERRTLRTLSuper.de" tvg-name="SUPER RTL/RTL Super.de",SUPER RTL
+#EXTVLCOPT:network-caching=1000
+rtsp://192.168.178.1:554/?avm=1&freq=546&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,107,1501,1500,1502,1504,1506,1507,1508
+#EXTINF:-1 tvg-id="ONE.de" tvg-name="ONE.de",ONE HD
+#EXTVLCOPT:network-caching=1000
+rtsp://192.168.178.1:554/?avm=1&freq=538&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,103,1721,1720,1722,1723,1724,1726,1727,1728,2171
+#EXTINF:-1 tvg-id="ZDFneo.de" tvg-name="ZDFneo.de",ZDFneo HD
+#EXTVLCOPT:network-caching=1000
+rtsp://192.168.178.1:554/?avm=1&freq=474&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,104,541,540,542,543,544,546,547,6371,6372
+#EXTINF:-1 tvg-id="3sat.de" tvg-name="3sat.de",3sat HD
+#EXTVLCOPT:network-caching=1000
+rtsp://192.168.178.1:554/?avm=1&freq=450&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,6500,6510,6520,6521,6523,6530,6531,6570
+#EXTINF:-1 tvg-id="ARTE.de" tvg-name="arte.de",arte HD
+#EXTVLCOPT:network-caching=1000
+rtsp://192.168.178.1:554/?avm=1&freq=418&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,105,6661,6660,6662,6663,6664,6665,6666,6667,6668,6669
+#EXTINF:-1 tvg-id="phoenix.de" tvg-name="phoenix.de",phoenix HD
+#EXTVLCOPT:network-caching=1000
+rtsp://192.168.178.1:554/?avm=1&freq=474&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,106,581,582,583,584,586,588,2171
+#EXTINF:-1 tvg-id="tagesschau24.de" tvg-name="tagesschau24.de",tagesschau24 HD
+#EXTVLCOPT:network-caching=1000
+rtsp://192.168.178.1:554/?avm=1&freq=394&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,102,1221,1222,1223,1224,1226,1227,1228,2171
+#EXTINF:-1 tvg-id="ZDFinfo.de" tvg-name="ZDFinfo.de",ZDFinfo HD
+#EXTVLCOPT:network-caching=1000
+rtsp://192.168.178.1:554/?avm=1&freq=450&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,6700,6710,6720,6721,6723,6730,6731,6770,6771,6772
+#EXTINF:-1 tvg-id="ARDalpha.de" tvg-name="ARD alpha.de",ARD alpha HD
+#EXTVLCOPT:network-caching=1000
+rtsp://192.168.178.1:554/?avm=1&freq=394&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,101,1211,1210,1212,1213,1214,1216,1217,1218,2171
+#EXTINF:-1 tvg-id="ntv.de" tvg-name="ntv.de",ntv
+#EXTVLCOPT:network-caching=1000
+rtsp://192.168.178.1:554/?avm=1&freq=546&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,110,1901,1902,1903,1904,1906,1907,1908
+#EXTINF:-1 tvg-id="euronewsdeutsch.de" tvg-name="euronews deutsch.de",euronews
+#EXTVLCOPT:network-caching=1000
+rtsp://192.168.178.1:554/?avm=1&freq=562&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,106,2601,2602
+#EXTINF:-1 tvg-id="WELT.de" tvg-name="WELT.de",WELT
+#EXTVLCOPT:network-caching=1000
+rtsp://192.168.178.1:554/?avm=1&freq=546&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,120,2801,2802,2806
+#EXTINF:-1 tvg-id="N24Doku.de" tvg-name="N24 Doku.de",N24 Doku
+#EXTVLCOPT:network-caching=1000
+rtsp://192.168.178.1:554/?avm=1&freq=562&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,112,1231,1232,1236
+#EXTINF:-1 tvg-id="KabelEinsDoku.de" tvg-name="Kabel Eins Doku.de",Kabel Eins Doku
+#EXTVLCOPT:network-caching=1000
+rtsp://192.168.178.1:554/?avm=1&freq=546&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,115,1511,1512,1513,1514,1516
+#EXTINF:0,HOME & GARDEN TV
+#EXTVLCOPT:network-caching=1000
+rtsp://192.168.178.1:554/?avm=1&freq=562&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,119,501,502
+#EXTINF:-1 tvg-id="DOKUSAT.de" tvg-name="DOKUSAT.de",DOKUSAT
+#EXTVLCOPT:network-caching=1000
+rtsp://192.168.178.1:554/?avm=1&freq=546&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,105,2931,2932,2934,2936
+#EXTINF:-1 tvg-id="Hamburg1.de" tvg-name="Hamburg 1.de",Hamburg 1
+#EXTVLCOPT:network-caching=1000
+rtsp://192.168.178.1:554/?avm=1&freq=466&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,7600,7602,7603,7608,7609
+#EXTINF:0,TV Hamburg DIREKT
+#EXTVLCOPT:network-caching=1000
+rtsp://192.168.178.1:554/?avm=1&freq=466&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,7750,7752,7753
+#EXTINF:0,TIDE TV HD
+#EXTVLCOPT:network-caching=1000
+rtsp://192.168.178.1:554/?avm=1&freq=410&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,7120,7122,7123,7128,7129
+#EXTINF:-1 tvg-id="DF1.de" tvg-name="DF1.de",DF1 HD
+#EXTVLCOPT:network-caching=1000
+rtsp://192.168.178.1:554/?avm=1&freq=498&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,102,6771,6772,6773
+#EXTINF:-1 tvg-id="SPORT1.de" tvg-name="SPORT1.de",SPORT1
+#EXTVLCOPT:network-caching=1000
+rtsp://192.168.178.1:554/?avm=1&freq=546&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,111,2501,2502,2506
+#EXTINF:-1 tvg-id="Eurosport1.de" tvg-name="Eurosport 1.de",Eurosport 1
+#EXTVLCOPT:network-caching=1000
+rtsp://192.168.178.1:554/?avm=1&freq=546&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,119,2921,2922
+#EXTINF:-1 tvg-id="DELUXEMUSIC.de" tvg-name="DELUXE MUSIC.de",DELUXE MUSIC HD
+#EXTVLCOPT:network-caching=1000
+rtsp://192.168.178.1:554/?avm=1&freq=538&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,104,1731,1732,1736
+#EXTINF:-1 tvg-id="MTV.de" tvg-name="MTV.de",MTV
+#EXTVLCOPT:network-caching=1000
+rtsp://192.168.178.1:554/?avm=1&freq=546&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,102,421,422,426
+#EXTINF:-1 tvg-id="SCHLAGERDELUXE.de" tvg-name="SCHLAGER DELUXE.de",SCHLAGER DELUXE
+#EXTVLCOPT:network-caching=1000
+rtsp://192.168.178.1:554/?avm=1&freq=546&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,104,941,942
+#EXTINF:-1 tvg-id="DMF.de" tvg-name="DMF.de",DMF
+#EXTVLCOPT:network-caching=1000
+rtsp://192.168.178.1:554/?avm=1&freq=546&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,112,6501,6502,6504,6506
+#EXTINF:-1 tvg-id="ComedyCentral.de" tvg-name="Comedy Central.de",COMEDY CENTRAL
+#EXTVLCOPT:network-caching=1000
+rtsp://192.168.178.1:554/?avm=1&freq=562&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,116,2941,2942,2943,2946
+#EXTINF:-1 tvg-id="KiKA.de" tvg-name="KiKA.de",KiKA HD
+#EXTVLCOPT:network-caching=1000
+rtsp://192.168.178.1:554/?avm=1&freq=474&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,102,431,430,432,433,434,436,437
+#EXTINF:-1 tvg-id="DisneyChannel.de" tvg-name="Disney Channel.de",Disney Channel
+#EXTVLCOPT:network-caching=1000
+rtsp://192.168.178.1:554/?avm=1&freq=546&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,103,1011,1012,1013,1014
+#EXTINF:-1 tvg-id="TOGGOplus.de" tvg-name="TOGGO plus.de",TOGGO plus
+#EXTVLCOPT:network-caching=1000
+rtsp://192.168.178.1:554/?avm=1&freq=562&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,102,591,592,596,7006
+#EXTINF:-1 tvg-id="Nickelodeon.de" tvg-name="Nickelodeon.de",Nick
+#EXTVLCOPT:network-caching=1000
+rtsp://192.168.178.1:554/?avm=1&freq=562&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,118,441,442,443,446
+#EXTINF:-1 tvg-id="NDRNiedersachsen.de" tvg-name="NDR Niedersachsen.de",NDR FS NDS HD
+#EXTVLCOPT:network-caching=1000
+rtsp://192.168.178.1:554/?avm=1&freq=402&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,5220,5221,35,1770,2676,5222,5223,5224,5225,5227
+#EXTINF:-1 tvg-id="NDRSchleswigHolstein.de" tvg-name="NDR Schleswig-Holstein.de",NDR FS SH HD
+#EXTVLCOPT:network-caching=1000
+rtsp://192.168.178.1:554/?avm=1&freq=458&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,4230,4232,4233,4234,4235,4236,4237,4238,4239,5257
+#EXTINF:-1 tvg-id="MDRSachsen.de" tvg-name="MDR Sachsen.de",MDR Sachsen HD
+#EXTVLCOPT:network-caching=1000
+rtsp://192.168.178.1:554/?avm=1&freq=402&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,5320,5321,34,2870,2876,5322,5323,5324,5325,5327
+#EXTINF:-1 tvg-id="WDRKoeln.de" tvg-name="WDR Köln.de",WDR HD Köln
+#EXTVLCOPT:network-caching=1000
+rtsp://192.168.178.1:554/?avm=1&freq=386&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,5500,5501,33,2370,2376,5502,5503,5504,5505,5507
+#EXTINF:-1 tvg-id="rbbFernsehenBerlin.de" tvg-name="rbb Fernsehen Berlin.de",rbb Berlin HD
+#EXTVLCOPT:network-caching=1000
+rtsp://192.168.178.1:554/?avm=1&freq=450&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,5310,5311,677,2171,2176,5312,5313,5314,5315,5317
+#EXTINF:-1 tvg-id="BRFernsehenSued.de" tvg-name="BR Fernsehen Süd.de",BR Süd HD
+#EXTVLCOPT:network-caching=1000
+rtsp://192.168.178.1:554/?avm=1&freq=402&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,5200,5201,1076,1570,2171,5202,5203,5204,5205,5207,5209
+#EXTINF:-1 tvg-id="SWRRheinlandPfalz.de" tvg-name="SWR Rheinland-Pfalz.de",SWR RP HD
+#EXTVLCOPT:network-caching=1000
+rtsp://192.168.178.1:554/?avm=1&freq=386&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,5130,5131,32,1371,2476,5132,5133,5134,5135,5137
+#EXTINF:-1 tvg-id="hrfernsehen.de" tvg-name="hr-fernsehen.de",hr-fernsehen HD
+#EXTVLCOPT:network-caching=1000
+rtsp://192.168.178.1:554/?avm=1&freq=418&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,106,6551,2171,6550,6552,6553,6554,6556,6557,6558
+#EXTINF:-1 tvg-id="SRFernsehen.de" tvg-name="SR Fernsehen.de",SR Fernsehen HD
+#EXTVLCOPT:network-caching=1000
+rtsp://192.168.178.1:554/?avm=1&freq=394&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,104,1271,1270,1272,1273,1274,1276,1277,1278,2171
+#EXTINF:-1 tvg-id="CNNInternational.de" tvg-name="CNN International.de",CNN International (eng)
+#EXTVLCOPT:network-caching=1000
+rtsp://192.168.178.1:554/?avm=1&freq=562&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,107,2251,2252
+#EXTINF:-1 tvg-id="BBCNews.de" tvg-name="BBC News.de",BBC News (eng)
+#EXTVLCOPT:network-caching=1000
+rtsp://192.168.178.1:554/?avm=1&freq=562&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,110,401,402
+#EXTINF:-1 tvg-id="CNBC.de" tvg-name="CNBC.de",CNBC (eng)
+#EXTVLCOPT:network-caching=1000
+rtsp://192.168.178.1:554/?avm=1&freq=610&bw=8&msys=dvbc&mtype=64qam&sr=6900&specinv=1&pids=0,16,17,18,20,37,1651,1652
+#EXTINF:-1 tvg-id="AlJazeera.de" tvg-name="Al Jazeera.de",Al Jazeera International (eng)
+#EXTVLCOPT:network-caching=1000
+rtsp://192.168.178.1:554/?avm=1&freq=546&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,101,2261,2262
+#EXTINF:0,CGTN
+#EXTVLCOPT:network-caching=1000
+rtsp://192.168.178.1:554/?avm=1&freq=562&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,113,6451,6452
+#EXTINF:-1 tvg-id="ANIXEplus.de" tvg-name="ANIXE+.de",ANIXE+
+#EXTVLCOPT:network-caching=1000
+rtsp://192.168.178.1:554/?avm=1&freq=458&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,4200,4202,4203,4209
